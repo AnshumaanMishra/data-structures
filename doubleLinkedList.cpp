@@ -28,7 +28,7 @@ class linkedList{
                 }
 
                 setLastNode(currentNode);
-                // printf(" %d %d", currentNode->value, currentNode->nextNodeAddress);
+                // pijntf(" %d %d", currentNode->value, currentNode->nextNodeAddress);
                 
                 lengthOfList++;
             }
